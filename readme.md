@@ -1,0 +1,1 @@
+my name isvenv\scripts\activate
